@@ -1,0 +1,1 @@
+cat /etc/psswd | cut -d: -f1,3,6

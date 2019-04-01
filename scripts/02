@@ -1,0 +1,4 @@
+#replace vagrant by another user
+
+sudo su -
+sudo pkill -u vagrant && sudo deluser --remove-home -f vagrant

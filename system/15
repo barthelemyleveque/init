@@ -1,0 +1,2 @@
+# run jobs -l to find PID
+sudo kill [PID] 
